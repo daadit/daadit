@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Adil Saputra Duha
 
-<!--
+
 **daadit/daadit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<h2 align="center">Hi 👋, I'm Adil Saputra Duha</h2>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
