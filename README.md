@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daadit&show_icons=true&locale=en&layout=compact" alt="daadit" />
 </p>
-<br>
-<br>
+
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=daadit&" alt="daadit" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daadit&" alt="daadit" />
 </p>
 
