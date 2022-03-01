@@ -1,3 +1,6 @@
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ### Hi there 👋, I'm Adil Saputra Duha
 
 Here are some ideas to get you started:
@@ -8,8 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: My Social Media
 - ⚡ Fun fact: I love my jobs
 
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daadit&label=Profile%20views&color=0e75b6&style=flat" alt="daadit" /> </p>
 
@@ -19,5 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daadit&show_icons=true&locale=en&layout=compact" alt="daadit" /></p>
+
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daadit&" alt="daadit" /></p>
