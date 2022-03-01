@@ -5,8 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Mediatukang
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Web & Mobile Application
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: My Social Media
 - ⚡ Fun fact: I love my jobs
 
 
